@@ -1,0 +1,21 @@
+# Web API
+fastapi==0.104.1
+uvicorn==0.24.0
+
+# 环境变量
+python-dotenv==1.0.0
+
+# LangChain RAG生态
+langchain==0.2.10
+langchain-openai==0.1.14
+langchain-community==0.2.9
+
+# 向量数据库
+faiss-cpu==1.8.0
+
+# PDF、Word文档解析
+pymupdf==1.24.3
+python-docx==0.8.11
+
+# 数据校验
+pydantic==2.8.2
